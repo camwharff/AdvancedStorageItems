@@ -3,21 +3,23 @@
   "Changes": [
     {
       "Action": "Load",
-      "Target": "ellimilly.AdvancedStorageItems/Objects",
+      "Target": "ellimilly.AdvStorageCP/Objects",
       "FromFile":  "assets/PoweredCrate.png"
     },
     {
       "Action": "EditData",
-      "Target": "Data/Objects",
+      "Target": "Data/BigCraftables",
       "Entries": {
-        "ellimilly.AdvancedStorageItems_PoweredCrate": {
+        "ellimilly.AdvStorageCP_PoweredCrate": {
           "Name": "Powered Crate",
           "DisplayName": "Powered Crate",
           "Description": "A large storage crate. Requires power.",
-          "Type": "Crafting",
-          "Category": -8,
           "Price": 500,
-          "Texture": "ellimilly.AdvancedStorageItems/Objects",
+          "Fragility": 0,
+          "CanBeSetOutdoors": true,
+          "CanBeSetIndoors": true,
+          "IsLamp": false,
+          "Texture": "ellimilly.AdvStorageCP/Objects",
           "SpriteIndex": 0
         }
       }

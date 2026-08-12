@@ -2,8 +2,8 @@
   "Name": "Advanced Storage - Items",
   "Author": "ellimilly",
   "Version": "0.1.0",
-  "Description": "Item data for Advanced Storage.",
-  "UniqueID": "ellimilly.AdvancedStorageItems",
+  "Description": "Content patcher item data for Advanced Storage.",
+  "UniqueID": "ellimilly.AdvStorageCP",
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
