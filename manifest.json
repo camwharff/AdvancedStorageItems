@@ -1,0 +1,10 @@
+{
+  "Name": "Advanced Storage - Items",
+  "Author": "ellimilly",
+  "Version": "0.1.0",
+  "Description": "Item data for Advanced Storage.",
+  "UniqueID": "ellimilly.AdvancedStorageItems",
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}
